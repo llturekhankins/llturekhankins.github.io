@@ -1,0 +1,83 @@
+
+    
+    - path: https://www.miamiclimate365.com/
+      image: "/files/images/miami_climate_week.png"
+      title: "Miami Climate Week panel on heat-healthy homes"
+      author: "Resilience 365 Conference"
+      description: "I participated in a panel conversation for Miami Climate Week and the Resilience 365 conference called 'Heat health: Innovative strategies for safer homes'. My purpose on the panel was to connect the science of heat-health to the lived experiences and applied work of the other panelists, who were community members and local leaders."
+      date: "2025-03-25"
+      categories: [event] 
+
+    - path: https://www.nationalacademies.org/event/43588_10-2024_leveraging-the-national-climate-assessment-to-empower-communities-a-workshop
+      image: "/files/images/nasem_workshop.jpg"
+      title: "Leveraging the National Climate Assessment to Empower Communities"
+      author: "National Academies of Sciences, Engineering, and Medicine"
+      description: "I co-organized a workshop for the National Academies of Science, Engineering, and Medicine. The workshop’s goal was to help broaden the reach of the National Climate Assessment and increase its impact and use at local and regional levels. We focused on highlighting future opportunities to improve community engagement at all stages of the report’s development and dissemination."
+      date: "2024-10-09"
+      categories: [workshop] 
+
+    - path: https://nca2023.globalchange.gov/chapter/18/
+      image: "/files/images/nca5_team.jpg"
+      title: "Fifth U.S. National Climate Assessment"
+      author: "United States Global Change Research Program"
+      description: "I served as a chapter author for the Fifth U.S. National Climate Assessment for chapter 18 Sector Interactions, Multiple Stressors, and Complex Systems."
+      date: "2023-11-14"
+      categories: [service] 
+
+    - path: https://cimas.earth.miami.edu/news-events/climate-cafe-series/index.html
+      image: "/files/images/climate_cafe.jpg"
+      title: "Climate Café Series"
+      author: "Rosenstiel School of Marine, Atmospheric, and Earth Science"
+      description: "I participated in an educational event that sought to promote casual conversations with the public about climate change, grounded in science."
+      date: "2023-10-18"
+      categories: [education, event] 
+
+    - path: https://www.rand.org/well-being/community-health-and-environmental-policy/projects/cecdc-in-kern.html
+      image: "/files/images/kern_stock_photo.png"
+      title: "Thinking forward together: Emerging technologies and a changing energy sector"
+      author: "RAND Corporation and Cal State University Bakersfield"
+      description: "I helped organize three deliberative conversations with community members in Kern County as a Summer Associate at the RAND Corporation. The conversations intended to create strucutre conversations around difficult topics involving Kern County's changing energy sector."
+      date: "2023-08-05"
+      categories: [event] 
+
+    - path: https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/202383
+      image: "/files/images/agu_23.png"
+      title: "Multisector dynamics: Confluence of societal and environmental change in urban areas"
+      author: "American Geophysical Union 2023 Meeting"
+      description: "I co-convened a session at the 2023 American Geophysical Union with members of the MultiSector Dynamics community."
+      date: "2023-12-12"
+      categories: [conference convening] 
+
+    - path: https://www.ijnr.org/2022-cj-er-itinerary
+      image: "/files/images/ijnr.png"
+      title: "Heat check: Communities work to protect public health under hot conditions"
+      author: Institute for Journalism & Natural Resources
+      description: "I participated in an educational workshop hosted by the Institute ofr Journalism & Natural Resources. My charge was to help the journalists better understand the science of extreme heat response."
+      date: "2022-11-17"
+      categories: [education, service, workshop]
+
+    - path: https://www.gcseglobal.org/science-actionable-knowledge-video-series
+      image: "/files/images/gcse_video_series.png"
+      title: "Science as Actionable Knowledge video series"
+      author: 
+        - Global Council for Science and the Environment
+        - NASA Applied Sciences
+      description: "I participated in an educational video series focused on improving the proper use of co-production methods in scientific research."
+      date: "2022-09"
+      categories: [education, service] 
+
+    - path: https://miamifoundation.org/miamis-priorities/extreme-heat/
+      image: "/files/images/mdc.png"
+      title: "Miami-Dade County Climate and Heat Health Taskforce"
+      author: "Miami-Dade County and the Miami Foundation"
+      description: "I served on Miami-Dade County's Climate and Heat Health Taskforce. The taskforce aimed to identify short-term actions, create a framework for prioritizing future actions and for monitoring progress, and make recommendations for how to respond to extreme heat in the county. We hosted several public conversations to learn more about the community's needs and concerns regarding extreme heat."
+      date: "2022-08"
+      categories: [education, service] 
+
+    - path: https://womensfundmiami.org/heathealth/
+      image: "/files/images/heat_campaign.jpg"
+      title: "Heat-health messaging campaign for pregnant women in Miami"
+      author: "The Women's Fund Miami-Dade"
+      description: "I served as a scientific advisor for a messaging campaign organized by the Miami-Dade Women's Fund. The goal of the campaign was to increase awareness of the dangers of extreme heat and effective cooling strategies for pregnant women."
+      date: "2021-05-27"
+      categories: [education, service] 

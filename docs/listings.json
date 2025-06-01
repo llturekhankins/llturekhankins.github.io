@@ -22,5 +22,15 @@
   {
     "listing": "/people.html",
     "items": []
+  },
+  {
+    "listing": "/media.html",
+    "items": []
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/events/2024_heat_pump_workshop/index.html"
+    ]
   }
 ]

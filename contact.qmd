@@ -1,24 +1,15 @@
 ---
 title: "Contact"
-description-meta: "Reach out to me with questions and comments"
+subtitle: "Feel free to reach out to me with media, engagement, or collaboration inquiries. I would love to hear from you!"
+description-meta: "Reach out to me with media, engagement, or collaboration inquiries."
 title-block-banner: false
 ---
 
-<center>
+**Mail** <br/>
+Irving Institute Room 256, <br/>
+33 Tuck Mall <br/>
+Hanover, NH 03755 <br/><br/>
 
-**Quarto Academic**
+**E-mail** <br/>
+<lynee.turek@dartmouth.edu>
 
-School
-
-College
-
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
-
-
-</center>

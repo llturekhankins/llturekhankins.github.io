@@ -1,0 +1,20 @@
+---
+title: "Workshop on the home energy transition: The heat pump"
+description: "I co-organized a workshop foucsed on identifying opportunities in and barriers to home decarbonization and the residential heat pump transition in New England."
+date: "2024-10-24"
+categories: [workshop]
+image: heat_pumps.jpg
+css: /custom.css
+---
+
+[![](workshop_group.JPG)](https://irving.dartmouth.edu/news/2024/11/catalyzing-home-energy-transitions-new-england)
+
+**Overview:**
+Home energy costs are unaffordable for many families in New England. The median low-income household in New England spends a tenth of its income on home energy bills1. For many families, the largest home energy expense is space heating. Traditional space heating technologies, like oil or gas furnaces, also emit large amounts of greenhouse gases, contributing to climate change. Indeed, the residential sector is one of the highest carbon-emitting sectors in the region2. Many technologies have been developed and deployed to alleviate household energy poverty and reduce carbon emissions, with heat pumps being a critical solution. However, challenges remain in making heat pumps accessible, affordable, reliable, and scalable. 
+
+Thirty-two practitioners, manufacturers, researchers, and students convened to discuss these growing, connected issues at a workshop at Dartmouth College on October 24, 2024. The goal of the workshop was to identify opportunities in and barriers to addressing home decarbonization and the residential heat pump transition in New England. The group brought together expansive expertise. Participants from the private sector covered the entire heat pump supply chain, including design, distribution, and installation. Other workshop participants contributed valuable knowledge on energy justice, public policy, human health, housing, community well-being, governance, workforce development, and climate change response.
+
+The day was packed with opportunities to share, connect, and brainstorm. First, workshop participants shared their latest endeavors with the group, illuminating their unique perspectives. Six organizations presented their work, and five heat pump manufacturers showcased their technologies. Second, workshop participants connected with each other, many for the first time, bridging disciplinary and sectoral divides. Third, in small groups, workshop participants collaboratively brainstormed the biggest opportunities, challenges, and unknowns that face the development, deployment, and assessment of heat pumps and home decarbonization in New England. Finally, the workshop concluded with a round table reflection. Responses ranged from renewed interest in justice and equity to the importance of facilitating contractor apprenticeships.
+
+**Workshop website:**
+<https://irving.dartmouth.edu/news/2024/11/catalyzing-home-energy-transitions-new-england>

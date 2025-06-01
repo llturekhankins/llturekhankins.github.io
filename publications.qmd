@@ -1,34 +1,74 @@
 ---
 title: "Publications"
 description-meta: "Information, pdfs, and social metrics of papers"
+image: "files/images/recruitment.png"
 #page-layout: full
 #back-to-top-navigation: true
 title-block-banner: false
-css: custom.css
+css: /custom.css
 ---
 
+
+Co-authored articles do not show related news coverage and invited presentations. <br/>
+Note: \*corresponding author; <sup>G</sup>mentored graduate student; <sup>U</sup>mentored undergraduate student <br/><br/>
+
+![Indoor heat study recruitment image](files/images/recruitment.png)
+*Photo credit: Catalyst Miami*
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
 
 <!--Include academic icons or buttons-->
 {{< include /files/includes/_academic.qmd >}}
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+<br/>
 
-Total citations as of January 2025:
+## Peer-reviewed articles
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+**Lynée L Turek-Hankins**\*, Mayra Cruz, Natalia Brown, Nkosi Muse, Amy Clement, Katharine J Mach. *2025*. Interactions between indoor heat and energy affordability amplify household risks in hot-humid US climate zones. *One Earth* 8(3). doi: [10.1016/j.oneear.2025.101235](https://www.cell.com/one-earth/abstract/S2590-3322(25)00061-2). [Code and data](https://doi.org/10.6084/m9.figshare.25727214) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2025.101235" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.oneear.2025.101235" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Coverage**: [Miami Herald 1](https://www.miamiherald.com/news/local/environment/climate-change/article302503419.html), [Miami Herald 2](https://www.miamiherald.com/news/local/environment/article303322816.html), [WLRN NPR](https://www.wlrn.org/environment/2025-03-24/miami-heat-danger-climate-change), [WUFT NPR](https://www.wuft.org/weather/2025-05-14/summer-will-be-here-soon-and-with-it-life-threatening-heat), [News@TheU](https://news.miami.edu/stories/2025/04/super-heat-trio-examines-the-impacts-of-intense-indoor-heat.html) <br/>
+**Invited presentations**: [AGU 2024](https://ui.adsabs.harvard.edu/abs/2024AGUFMSY54A..01T/abstract), [Columbia Univeristy's Workshop on Extreme Heat](https://www.youtube.com/watch?v=xJajVZbeSbI), Miami Climate Week Resilience 365 Conference
+<br/><br/>
 
-## Selected Work
+Cruz, Mayra\*, Katharine J Mach, **Lynée L Turek-Hankins**, Kilan C Ashad-Bishop, Zinzi D Bailey, Scotney D Evans, Ashley Fanning, Margo Fernandez-Burgos, Jane Gilbert, Bereatha Howard, Monique Mahabir, Julia Marturano, Lisa N Murphy, Nkosi Muse, Joanne Pérodin, and Amy C Clement. *2025*. Where heat does not come in waves: a framework for understanding and managing chronic heat. *Environmental Research: Climate* 4(2), p. 023002. doi: [10.1088/2752-5295/adc827](https://iopscience.iop.org/article/10.1088/2752-5295/adc827). [Code and data](https://doi.org/10.6084/m9.figshare.c.7519083.v1)  <span class="__dimensions_badge_embed__" data-doi="10.1088/2752-5295/adc827" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1088/2752-5295/adc827" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br/>
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+Katharine J Mach\*, Kripa Jagannathan, Linda Shi, **Lynée L Turek-Hankins**, Jeffrey R Arnold, Christa Brelsford, Alejandro N Flores, Jing Gao, Carlos E Martín, David L McCollum, Richard Moss, Jennifer Niemann, Brenda Rashleigh, Patrick M Reed. *2024*. RResearch to confront climate change complexity: Intersectionality, integration, and innovative governance. *Earth's Future* 12(6), e2023EF004392. doi: [10.1029/2023EF004392](https://doi.org/10.1029/2023EF004392). <span class="__dimensions_badge_embed__" data-doi="10.1029/2023EF004392" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1029/2023EF004392" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+<br/>
+
+**Lynée L Turek-Hankins**\*, Erin Coughlan de Perez, Giulia Scarpa, Raquel Ruiz-Diaz, Patricia Nayna Schwerdtle, Elphin Tom Joe, Eranga K Galappaththi, Emma M French, Stephanie E Austin Chandni Singh, Mariella Siña, AR Siders, Maarten K van Aalst, Sienna Templeman, Abraham M Nunbogu, Lea Berrang-Ford, Tanvi Agrawal, the GAMI team, and Katharine J Mach. *2021*. Climate change adaptation to extreme heat: a global systematic review of implemented action. *Oxford Open Climate Change* 1(1). doi: [10.1093/oxfclm/kgab005](https://doi.org/10.1093/oxfclm/kgab005). <span class="__dimensions_badge_embed__" data-doi="10.1093/oxfclm/kgab005" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1093/oxfclm/kgab005" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Coverage**: [CarbonBrief](https://www.carbonbrief.org/climate-change-made-india-and-pakistans-2022-early-heatwave-30-times-more-likely%ef%bf%bc/), [News@TheU](https://news.miami.edu/stories/2021/08/geography,-economic-level-affect-adaptation-to-extreme-heat.html) <br/>
+**Invited presentations**: [AGU 2021](https://ui.adsabs.harvard.edu/abs/2021AGUFMGC11B..01T/abstract), Cornell Environmental and Water Resources Engineering Seminar
+<br/><br/>
+
+Lea Berrang-Ford\*, AR Siders, Alexandra Lesnikowski, ... **Lynée L Turek-Hankins**, ...Thelma Zulfawu Abu. *2021*. A systematic global stocktake of evidence on human adaptation to climate change. *Nature Climate Change* 11. doi: [10.1038/s41558-021-01170-y](https://doi.org/10.1038/s41558-021-01170-y). Code and data: [machine learning platform](https://doi.org/10.5281/zenodo.4121525) and [reconciliation of codes](https://doi.org/10.5281/zenodo.4010763) <span class="__dimensions_badge_embed__" data-doi="10.1038/s41558-021-01170-y" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41558-021-01170-y" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<br/>
+
+Malcolm Araos\*, Kripa Jagannathan, Roopam Shukla, Idowu Ajibade, Erin Coughlan de Perez, Katy Davis, James D. Ford, Eranga K. Galappaththi, Caitlin Grady8, AJ Hudson, Elphin Tom Joe, Christine J Kirchhoff, Alexandra Lesnikowski, Gabriela Nagle Alverio, Miriam Nielsen, Ben Orlove, Brian Pentz, Diana Reckien, AR Siders, Nicola Ulibarri, Maarten van Aalst, Thelma Zulfawu Abu, Tanvi Agrawal, Lea Berrang-Ford, Rachel Bezner Kerr, Shaugn Coggins, Matthias Garschagen, Alexandra Harden, Katharine J Mach, Abraham Marshall Nunbogu, Pandey Spandan, Sienna Templeman, **Lynée L Turek-Hankins**, and the GAMI team. *2021*. Equity in human adaptation-related responses: A systematic global review. *One Earth* 4(10). doi: [10.1016/j.oneear.2021.09.001](https://doi.org/10.1016/j.oneear.2021.09.001). <span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2021.09.001" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.oneear.2021.09.001" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<br/>
+
+**Lynée L Turek-Hankins**\*, Miyuki Hino, and Katharine J Mach. *2020*. Risk screening methods for extreme heat: Implications for equity-oriented adaptation. *PLoS One* 15(11). doi: [10.1371/journal.pone.0240841](https://doi.org/10.1371/journal.pone.0240841). <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0240841" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1371/journal.pone.0240841" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Invited presentations**: City Government of Hallandale Beach FL
+<br/><br/>
 
 
-<center><hr style="width:50%"></center>
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+## Articles in review
+**Lynée L Turek-Hankins**\*, Vince Schueler, Miyuki Hino, and Katharine J Mach. *In review*. Weatherization reduces needs
+for energy bill assistance. *Energy Policy*. <br/><br/>
+
+Christa Brelsford, Maria Amaya, Mohammed Basheer, Alysha Helmrich, Christian J Klassert, Xinchang Li, Landon T Marston, Hassan Niazi, Wei Peng, Pranab Kanti Roy Chowdhury\*, Jinyu Shiwang, **Lynée L Turek-Hankins**, Taryn Waite, Jim Yoon, and Shan Zuidema. *In review*. Key moments in coupled human-natural systems. In Review. *Earth's Future*.  <br/><br/>
 
 
+
+## Assessments
+Lida Teneva, Jasmine Brown, Zac Cannizzo, Molly Cross, Samantha Chisholm Hatfield, Erica Fleishman, Stephanie Mladinich, Robert Newman, Meagan Oldfather, **Lynée L Turek-Hankins**, and Melissa Ward. *Expected 2028*. Ch. 19. Nature and ecosystems. *Sixth U.S. National Climate Assessment*, Washington DC, USA: U.S. Global Change Research Program. <br/><br/>
+
+Katharine J Mach, Robert Vallerio, Jeffrey R Arnold, Christa Brelsford, Katherine V Calvin, Alejandro N Flores, Jing Gao, Kripa Jagannathan, David Judi, Carlos E Martín, Frances C Moore, Richard Moss, Earthea Nance, Brenda Rashleigh, Patrick M Reed, Linda Shi, **Lynée L Turek-Hankins**. *2023*. Ch. 18. Sector interactions, multiple stressors, and complex systems. *Fifth U.S. National Climate Assessment*, Washington DC, USA: U.S. Global Change Research Program. doi: [10.7930/NCA5.2023.CH18](https://nca2023.globalchange.gov/chapter/18/). <br/><br/>
+
+
+
+## Opinion pieces
+**Lynée L Turek-Hankins** and Katharine J Mach. *2021*. A major federal response to occupational extreme heat is here at last. [*The Conversation*](https://theconversation.com/a-major-federal-response-to-occupational-extreme-heat-is-here-at-last-168629). 
 
 <!--Include social share buttons-->
-
-{{< include /files/includes/_socialshare.qmd >}}

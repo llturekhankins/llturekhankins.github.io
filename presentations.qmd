@@ -1,0 +1,87 @@
+---
+title: "Presentations"
+description-meta: "Speaking engagements and presentations"
+image: "files/images/NASEM_talk.jpg"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: false
+css: /custom.css
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+<!--Include academic icons or buttons-->
+{{< include /files/includes/_academic.qmd >}}
+
+Note: presentations by co-authors are not shown here 
+
+![Indoor heat study recruitment image](files/images/NASEM_talk.jpg)
+*Photo credit: National Academies of Science of Science, Engineering, and Medicine*
+
+<br/>
+
+## Invited talks
+
+Understanding the complex drivers of heat vulnerability (Presentation) *2025*. **Boston-Area Complex Risk Science: Exploring new frontiers and a new community for understanding risk**. Boston, MA USA.
+
+Heat and health: Innovative strategies for safer homes (Panel discussion) *2025*. **Miami Climate Week: Resilience 365 Conference**. Miami, FL USA. <br/>
+
+Adaptation for the heat-energy-housing nexus requires analyzing and addressing intersectional, chronic risks (Presentation) *2024*. **American Geophysical Union Conference**. Washington, DC USA. <br/>
+
+Caught between a hot home and a high energy bill (Presentation) *2024*. **Columbia University's Extreme Heat Workshop**. New York, NY USA. <br/>
+
+Community engagement for actionable knowledge (Workshop presenter) *2023*. **Global Council for Science and the Environment** and **NASA Applied Sciences**. Virtual workshop. <br/>
+
+Searing, sweltering, stifiling: How record-high temperatures and a marine heat wave baked South Florida this summer (Speaker) *2023*. **Rosenstiel School Climate Café Chat**. Miami, FL USA. <br/>
+
+Multisector impacts and response opportunities to increasing extreme heat (Speaker) *2022*. **Cornell Environmental and Water Resource Engineering Seminar**. Vitual seminar. <br/>
+
+An introduction to extreme heat and adaptation science for journalists (Workshop presenter) *2022*. **Institute for Journalism & Natural Resources**. Virtual workshop. <br/>
+
+Inclusive design & climate change resilience: Establishing a beachhead with SE Florida’s spinal cord injury community (Speaker) *2022*. **Miller School of Medicine Dean Henri R. Ford’s Interdisciplinary Seminar**. Miami, FL USA. <br/>
+
+Societal preparedness for the multisector impacts of extreme heat (Presentation) *2021*. **American Geophysical Union Conference**. Virtual presentation. <br/>
+
+The energy-housing-built environment nexus under a changing climate(Speaker) *2021*. **Rosenstiel School Sea Secrets Seminar Series**. Miami, FL USA. <br/>
+
+¿Qué es el cambio climático? (Speaker) *2021*. **Evergreen Elementary School**. Shelton, WA USA. <br/>
+
+Equitable adaptation to extreme heat and the urban heat island effect in a changing climate (Speaker) *2020*. **City Government of Hallandale Beach Resilience Meeting**. Hallandale Beach, FL USA. <br/>
+
+Climate adaptation & COVID-19: Managing compound hazards (Speaker) *2020*. **Rosenstiel School Climate
+Café Chat.**. Miami, FL USA. <br/><br/>
+
+
+
+## Oral presentations 
+Non-invited oral conference presentations
+
+Making co-production work *2024*. **Science of Actionable Knowledge Workshop**. Berkeley, CA USA. <br/>
+
+Multisector indoor heat risk in a chronically hot city *2024*. **American Geophysical Union Conference**. San Francisco, CA USA. <br/>
+
+Equitable adaptation to extreme heat in California *2020*. **Association for Environmental Studies and Sciences Conference**. Remote presentation. <br/>
+
+Equitable adaptation to extreme heat in California *2020*. **University of Washington Graduate Climate Conference**. Remote presentation. <br/>
+
+Risk screening methods for extreme
+heat: implications for equity-oriented adaptation *2020*. **American Geophysical Union Conference**. Remote presentation. <br/>
+
+Thermal performance with a whole-building conduction time-series
+profile *2019*. **Engineers in Technical and Humanitarian Opportunities of Service Conference**. Bellevue, WA USA. <br/><br/>
+
+
+## Poster presentations
+
+![Columbia poster image](files/images/poster.JPG)
+*Photo credit: Dr. Kilan Ashad-Bishop* <br/>
+
+
+Multisector indoor heat risk in a chronically hot city *2023*. **MultiSector Dynamics Workshop**. Davis, CA USA. <br/>
+
+Equitable adaptation to extreme heat in California *2020*. **University of Miami Graduate Research Symposium**. Miami, FL USA. <br/>
+
+Thermal performance with a whole-building conduction time-series profile *2019*. **Oak Ridge National Laboratory Research Symposium**. Oak Ridge, TN USA. <br/>
+
+<!--Include social share buttons-->
