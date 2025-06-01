@@ -3,7 +3,7 @@
       image: /files/images/media/npr.png
       title: "Summer will be here soon, and with it life-threatening heat"
       author: Maria Avlonitis
-      description: "There are factors that contribute to a house’s indoor temperature staying hot, according to Turek-Hankins, such as lack of up-to-date cooling technology. Additionally, the house’s envelope, which is the exterior shell of a building that separates the inside from the outside environment such as walls and the roof, can be heat retaining."
+      description: "“There are factors that contribute to a house’s indoor temperature staying hot, according to Turek-Hankins, such as lack of up-to-date cooling technology. Additionally, the house’s envelope, which is the exterior shell of a building that separates the inside from the outside environment such as walls and the roof, can be heat retaining.”"
       date: "2025-05-14"
       categories: [NPR] 
 
@@ -11,7 +11,7 @@
       image: /files/images/media/news-at-U.svg
       title: "‘Super Heat Trio’ examines the impacts of intense indoor heat"
       author: Robert C. Jones
-      description: "“Researchers have long been aware that residential heat risks are very closely intertwined with the risks of unaffordable energy. Yet, they’ve examined the two in isolation. Our work is among the first to take an in-depth, simultaneous look at both problems,” said Lynée Turek-Hankins."
+      description: "“'Researchers have long been aware that residential heat risks are very closely intertwined with the risks of unaffordable energy. Yet, they’ve examined the two in isolation. Our work is among the first to take an in-depth, simultaneous look at both problems,' said Lynée Turek-Hankins.”"
       date: "2025-04-21"
       categories: [News@TheU] 
 
@@ -19,7 +19,7 @@
       image: /files/images/media/miami-herald.png
       title: "Federal program helps low-income Floridians keep power on. Trump laid off its staff"
       author: Alex Harris and Max Klaver
-      description: "A recent study from the University of Miami surveyed dozens of residents of Miami-Dade County and found many low-income households are already struggling with high power bills, and they reported they give up food, medicine and doctor’s visits to ensure they can afford to keep the AC blowing."
+      description: "“A recent study from the University of Miami surveyed dozens of residents of Miami-Dade County and found many low-income households are already struggling with high power bills, and they reported they give up food, medicine and doctor’s visits to ensure they can afford to keep the AC blowing.”"
       date: "2025-04-08"
       categories: [Miami Herald] 
 
@@ -27,7 +27,7 @@
       image: /files/images/media/npr.png
       title: "Staying cool in Miami: UM study looks at who is most at risk from dangerous heat"
       author: Jenny Staletovich
-      description: "“It's not necessarily just the case that it's the classic, low-income renter,” said Lynee Turek-Hankins, the study’s lead author. “It's a more widespread issue than people realize.”"
+      description: "“'It's not necessarily just the case that it's the classic, low-income renter,' said Lynee Turek-Hankins, the study’s lead author. 'It's a more widespread issue than people realize.'”"
       date: "2025-03-24"
       categories: [NPR] 
 
@@ -35,7 +35,7 @@
       image: /files/images/media/miami-herald.png
       title: "On sweltering Miami summer days, it can be hotter inside homes than out, study finds"
       author: Alex Harris
-      description: "“Everyone in Miami has AC,” said Lynée Turek-Hankins, lead author of the study and a post-doctoral fellow at Dartmouth College. “The question is does it work and can you afford to use it?”"
+      description: "“'Everyone in Miami has AC,' said Lynée Turek-Hankins, lead author of the study and a post-doctoral fellow at Dartmouth College. 'The question is does it work and can you afford to use it?'”"
       date: "2025-03-21"
       categories: [Miami Herald] 
 
@@ -43,7 +43,7 @@
       image: /files/images/media/news-at-U.svg
       title: "Researchers measure the dangers of indoor heat"
       author: Robert C. Jones
-      description: "The data produced by THREAD will add considerable traction to the conversations around heat that are taking place in the county, noted Turek-Hankins. “It’s not a cookie-cutter type of experience,” she said. “It’s a whole swath of different people who are experiencing different aspects of the problem.”"
+      description: "“The data produced by THREAD will add considerable traction to the conversations around heat that are taking place in the county, noted Turek-Hankins. 'It’s not a cookie-cutter type of experience,'' she said. 'It’s a whole swath of different people who are experiencing different aspects of the problem.'”"
       date: "2023-08-04"
       categories: [News@TheU] 
 
@@ -51,15 +51,15 @@
       image: /files/images/media/inside-climate-news.svg
       title: "Miami is Used to Heat, but Not Like This"
       author: Amy Green
-      description: "Turek-Hankins was part of the Climate and Heat Health Task Force. 'She really does care about people and making sure that their quality of life is improved', she said of Miami's CHO."
+      description: "“Turek-Hankins was part of the Climate and Heat Health Task Force. 'She really does care about people and making sure that their quality of life is improved', she said of Miami's CHO.”"
       date: "2023-08-01"
       categories: [Inside Climate News] 
 
-    - path: https://www.carbonbrief.org/unprecedented-heat-extremes-could-occur-in-any-region-globally/#:~:text=The%20authors%20find%20that%20eastern,for%20a%20record%2Dbreaking%20heatwave.
+    - path: https://www.carbonbrief.org/unprecedented-heat-extremes-could-occur-in-any-region-globally/
       image: /files/images/media/carbon-brief.png
       title: "Unprecedented heat extremes ‘could occur in any region globally’"
       author: Ayehsa Tandon
-      description: "[Turek-Hankins] says this study “raises the stakes for proactive heat adaptation”, but adds that “addressing the factors that make someone more susceptible to heat-related health impacts––such as poor housing quality or social isolation––are worthwhile endeavours even without a heatwave”."
+      description: "[Turek-Hankins] “says this study 'raises the stakes for proactive heat adaptation', but adds that 'addressing the factors that make someone more susceptible to heat-related health impacts—such as poor housing quality or social isolation—are worthwhile endeavours even without a heatwave.'”"
       date: "2023-04-25"
       categories: [Carbon Brief] 
 
@@ -67,7 +67,7 @@
       image: /files/images/media/newswise.png
       title: "Study aims to aid people in wheelchairs impacted by climate change"
       author: University of Miami
-      description: "“People with disabilities have historically experienced and are expected to continue to experience the first and worst impacts of climate change, so this collaboration allows me to develop deeper ties and a more targeted understanding of the adaptation needs and preferences of this community,” [Turek-Hankins] said."
+      description: "“'People with disabilities have historically experienced and are expected to continue to experience the first and worst impacts of climate change, so this collaboration allows me to develop deeper ties and a more targeted understanding of the adaptation needs and preferences of this community,' [Turek-Hankins] said.”"
       date: "2022-10-14"
       categories: [Newswise] 
 
@@ -75,7 +75,7 @@
       image: /files/images/media/miami-new-times.png
       title: "Study aims to aid people in wheelchairs impacted by climate change"
       author: Naomi Feinstein
-      description: "“Indoor heat can be really dangerous,” says Lynee Turek-Hankins, a Ph.D. student at UM's Abess Center for Ecosystem Science and Policy. “Research in other places has shown that indoor temperatures can often exceed outdoor temperatures.”"
+      description: "“'Indoor heat can be really dangerous,' says Lynee Turek-Hankins, a Ph.D. student at UM's Abess Center for Ecosystem Science and Policy. 'Research in other places has shown that indoor temperatures can often exceed outdoor temperatures.'”"
       date: "2022-08-24"
       categories: [Miami New Times] 
 
@@ -83,7 +83,7 @@
       image: /files/images/media/NBC-FL.jpg
       title: "Rising Temps Due to Climate Change Impact Maternal Health, Studies Show"
       author: Amanda Plasencia
-      description: "“Most of us, when it’s hot, we just turn up the air conditioning and we’re good to go, but the reality is that is a fundamentally unequal way of responding to this hazard and that is because it is so tied to your socioeconomic ability to be able to pay for AC,” said Lynee Turek-Hankins, a Ph.D. student at the University of Miami, who is researching what factors are leading to this issue."
+      description: "“'Most of us, when it’s hot, we just turn up the air conditioning and we’re good to go, but the reality is that is a fundamentally unequal way of responding to this hazard and that is because it is so tied to your socioeconomic ability to be able to pay for AC,' said Lynee Turek-Hankins, a Ph.D. student at the University of Miami, who is researching what factors are leading to this issue.”"
       date: "2022-04-22"
       categories: [NBC South Florida] 
 
@@ -91,6 +91,6 @@
       image: /files/images/media/news-at-U.svg
       title: "Geography, economic level affect adaptation to extreme heat"
       author: Robert C. Jones
-      description: "Doctoral student Lynée Turek-Hankins is the lead author of a study that examines how different regions around the world respond and adapt to a warming climate."
+      description: "“Doctoral student Lynée Turek-Hankins is the lead author of a study that examines how different regions around the world respond and adapt to a warming climate.”"
       date: "2021-08-11"
       categories: [News@TheU] 
