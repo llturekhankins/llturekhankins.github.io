@@ -6,7 +6,7 @@ title-block-banner: false
 ---
 
 **Mail** <br/>
-Irving Institute Room 256 <br/>
+Irving Institute #256 <br/>
 33 Tuck Mall <br/>
 Hanover, NH 03755 <br/><br/>
 
