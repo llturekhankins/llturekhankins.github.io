@@ -1,0 +1,79 @@
+---
+title: "Lynée Turek-Hankins, PhD"
+description-meta: "Lynée Turek-Hankins is..."
+image: "files/images/headshot-1.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:lynee.turek@dartmouth.edu    
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
+      href: https://orcid.org/0000-0003-3356-3283
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=Sd3LQW0AAAAJ&hl=en&oi=ao
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lyn%C3%A9e-turek-hankins-564011173/ 
+      target: _blank 
+
+
+# listing:
+#   - id: recent-posts
+#     contents: 
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: "Participating APPAM 2024"
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
+
+---
+
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+
+:::{#hero-heading}
+
+My name is Lynée and I am a [Neukom postdoctoral fellow](https://neukom.dartmouth.edu/research/neukom-postdoctoral-fellows/current-fellows) at the Thayer School of Engineering at Dartmouth College. I combine qualitative and quantitative methods to study coupled human-environmental system challenges. Through research and service, I aim to (1) help communities prepare for the rising dangers of extreme heat, (2) reduce emissions while increasing resilience in the housing sector, and (3) improve decision making processes for climate risk management.
+
+My interdisciplinary approach is rooted in my diverse past experiences. I started my academic journey at Stanford University. There, I received my B.S.E. in Mechanical Engineering while conducting undergraduate research with the [Field Lab](https://fieldlab.stanford.edu/) at the Woods Institute for the Environment. I then moved to the University of Miami where I earned my Ph.D. in Environmental Science and Policy as a National Science Foundation Graduate Research Fellow in the [Mach Lab](https://climateprep.earth.miami.edu/). During my PhD, I combined data science and co-production to identify multisector drivers of residential extreme heat risk and assess response opportunities for the housing–energy nexus. My past work experiences have also spanned the United States. I was a researcher at the Washington State University Energy Program, an adjunct researcher at the RAND Corporation in the Engineering and Applied Sciences Division, and an ORISE fellow with the Building Envelope and Urban Systems Group at Oak Ridge National Laboratory. 
+
+Service and stakeholder engagement are cornerstones of my approach to life and research. I have been lucky to be involved with several initiatives focused on improving climate resilience outside of the academy. I served as a chapter author for the Fifth and Sixth U.S. [National Climate Assessments](https://nca2023.globalchange.gov/) and co-organized a [workshop](https://www.nationalacademies.org/our-work/leveraging-the-national-climate-assessment-to-empower-communities-a-workshop) for the National Academies of Science, Engineering, and Medicine on how to leverage the National Climate Assessment to empower communities. I also supported several heat resilience initiatives with local partners in Miami-Dade County. I was a member of the County’s Climate and Heat Health Task Force, helped develop a heat-health messaging campaign for pregnant women with The Women’s Fund, and contributed to the Resilient 305 initiative. I’m currently building relationships with practitioners in the Northeast and am excited to get more involved in my new home state of New Hampshire.
+
+I am engaged in multiple academic communities. I am a member of the [Keller](https://keller-lab.github.io/) and [Mayfield](https://www.sustainabletransitions.earth/) labs at Dartmouth. There, I teach mixed-level courses, collaborate with scholars across departments, and mentor graduate and undergraduate students in research. Second, I am a member of the [Science of Actionable Knowledge](https://www.scienceofactionableknowledge.org/) (SOAK) community. SOAK researchers focus on improving the production and use of science in decision-making. Finally, I participate in the [MultiSector Dynamics](https://multisectordynamics.org/) community, which aims to advance our understanding of how human and natural systems co-evolve over time.
+
+[Please reach out to me](contact.qmd) with media inquiries, ideas for research collaborations, or community engagement opportunities. I’m always excited to connect with new people!
+
+"*Photo credit: National Academies of Science of Science, Engineering, and Medicine*"
+
+
+<!--
+:::
+
+## Recent activity
+Check out my latest &nbsp;[papers](posts.qmd#category=paper)&nbsp;, &nbsp;[news coverage](posts.qmd#category=news)&nbsp;, &nbsp;[presentations](posts.qmd#category=event)&nbsp;, and &nbsp;[more »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>
+-->

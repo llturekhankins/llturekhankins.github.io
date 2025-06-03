@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-subtitle: "Feel free to reach out to me with media, engagement, or collaboration inquiries. I would love to hear from you!"
+subtitle: "Please reach out to me with media inquiries, ideas for research collaborations, or community engagement opportunities."
 description-meta: "Reach out to me with media, engagement, or collaboration inquiries."
 title-block-banner: false
 ---

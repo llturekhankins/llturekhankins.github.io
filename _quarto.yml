@@ -20,7 +20,7 @@ website:
       - text: About
         menu:
           - text: About me
-            href: index.qmd#category=news
+            href: about_me.qmd
           - text: Contact
             href: contact.qmd   
           - text: CV
