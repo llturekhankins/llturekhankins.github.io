@@ -1,46 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts.html</loc>
-    <lastmod>2025-02-08T14:15:24.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
-    <lastmod>2025-03-11T20:28:51.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/projects.html</loc>
-    <lastmod>2025-02-10T13:31:20.796Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/index.html</loc>
-    <lastmod>2025-02-10T14:44:39.824Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/index.html</loc>
-    <lastmod>2025-02-08T20:29:49.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/teaching.html</loc>
-    <lastmod>2025-02-10T15:14:33.036Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
-    <lastmod>2025-02-08T02:43:14.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/index.html</loc>
-    <lastmod>2025-02-10T14:44:43.941Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/index.html</loc>
-    <lastmod>2025-03-11T20:32:17.122Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/people.html</loc>
-    <lastmod>2025-02-08T18:00:52.023Z</lastmod>
-  </url>
-  <url>
     <loc>https://lyneeturekhankins.com/presentations.html</loc>
     <lastmod>2025-06-02T01:32:29.532Z</lastmod>
   </url>
@@ -57,28 +17,32 @@
     <lastmod>2025-06-02T01:32:29.532Z</lastmod>
   </url>
   <url>
-    <loc>https://lyneeturekhankins.com/posts/news-title/index.html</loc>
-    <lastmod>2025-06-02T01:32:29.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lyneeturekhankins.com/posts/paper-title/index.html</loc>
-    <lastmod>2025-06-02T01:32:29.531Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lyneeturekhankins.com/teaching.html</loc>
-    <lastmod>2025-06-02T01:32:29.532Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lyneeturekhankins.com/contact.html</loc>
-    <lastmod>2025-06-03T13:52:40.885Z</lastmod>
+    <loc>https://lyneeturekhankins.com/events.html</loc>
+    <lastmod>2025-06-02T01:32:29.450Z</lastmod>
   </url>
   <url>
     <loc>https://lyneeturekhankins.com/posts/event-title/index.html</loc>
     <lastmod>2025-06-02T01:32:29.529Z</lastmod>
   </url>
   <url>
-    <loc>https://lyneeturekhankins.com/events.html</loc>
-    <lastmod>2025-06-02T01:32:29.450Z</lastmod>
+    <loc>https://lyneeturekhankins.com/contact.html</loc>
+    <lastmod>2025-06-03T13:52:40.885Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lyneeturekhankins.com/teaching.html</loc>
+    <lastmod>2025-06-02T01:32:29.532Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lyneeturekhankins.com/about_me.html</loc>
+    <lastmod>2025-06-06T18:48:27.816Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lyneeturekhankins.com/posts/paper-title/index.html</loc>
+    <lastmod>2025-06-02T01:32:29.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lyneeturekhankins.com/posts/news-title/index.html</loc>
+    <lastmod>2025-06-02T01:32:29.529Z</lastmod>
   </url>
   <url>
     <loc>https://lyneeturekhankins.com/index.html</loc>
@@ -91,9 +55,5 @@
   <url>
     <loc>https://lyneeturekhankins.com/events/2024_heat_pump_workshop/index.html</loc>
     <lastmod>2025-06-02T01:32:29.456Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lyneeturekhankins.com/about_me.html</loc>
-    <lastmod>2025-06-03T13:49:53.084Z</lastmod>
   </url>
 </urlset>
