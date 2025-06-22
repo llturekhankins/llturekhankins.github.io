@@ -14,10 +14,10 @@ css: /custom.css
 <!--Include academic icons or buttons-->
 {{< include /files/includes/_academic.qmd >}}
 
-Note: presentations by co-authors are not shown here 
+Note: presentations by co-authors are not displayed
 
 ![Indoor heat study recruitment image](files/images/NASEM_talk.jpg)
-*Photo credit: National Academies of Science of Science, Engineering, and Medicine*
+*Photo credit: National Academies of Science, Engineering, and Medicine*
 
 <br/>
 
