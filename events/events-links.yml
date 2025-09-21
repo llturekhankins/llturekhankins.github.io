@@ -1,5 +1,13 @@
 
-    
+        
+    - path: https://www.rotarylebanonnh.org/
+      image: "/files/images/rotary_club_logo.jpeg"
+      title: "Speaking at the Rotary Club of Lebanon, NH"
+      author: "Rotary Club of Lebanon, NH"
+      description: "I presented to the Rotary Club of Lebanon, NH about climate change science, risk management approaches, and impacts on communities."
+      date: "2025-06-26"
+      categories: [education, event, service]  
+
     - path: https://www.miamiclimate365.com/
       image: "/files/images/miami_climate_week.png"
       title: "Miami Climate Week panel on heat-healthy homes"

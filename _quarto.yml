@@ -24,7 +24,7 @@ website:
           - text: Contact
             href: contact.qmd   
           - text: CV
-            href: files/lynee_turek_hankins_CV.pdf 
+            href: files/Turek_Hankins_CV.pdf 
             target: _blank 
       - text: Research
         menu:

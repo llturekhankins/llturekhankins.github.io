@@ -1,6 +1,6 @@
 
     - path: https://www.wuft.org/weather/2025-05-14/summer-will-be-here-soon-and-with-it-life-threatening-heat
-      image: /files/images/media/npr.png
+      image: /files/images/media/wuft.webp
       title: "Summer will be here soon, and with it life-threatening heat"
       author: Maria Avlonitis
       description: "“There are factors that contribute to a house’s indoor temperature staying hot, according to Turek-Hankins, such as lack of up-to-date cooling technology. Additionally, the house’s envelope, which is the exterior shell of a building that separates the inside from the outside environment such as walls and the roof, can be heat retaining.”"
@@ -24,7 +24,7 @@
       categories: [Miami Herald] 
 
     - path: https://www.wlrn.org/environment/2025-03-24/miami-heat-danger-climate-change
-      image: /files/images/media/npr.png
+      image: /files/images/media/wlrn.png
       title: "Staying cool in Miami: UM study looks at who is most at risk from dangerous heat"
       author: Jenny Staletovich
       description: "“'It's not necessarily just the case that it's the classic, low-income renter,' said Lynee Turek-Hankins, the study’s lead author. 'It's a more widespread issue than people realize.'”"
