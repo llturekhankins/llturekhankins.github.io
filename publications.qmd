@@ -25,6 +25,9 @@ Note: \*corresponding author; <sup>G</sup>mentored graduate student; <sup>U</sup
 
 ## Peer-reviewed articles
 
+**Lynée L Turek-Hankins**\*, Vince Schueler, Miyuki Hino, and Katharine J Mach. *2025*. Weatherization reduces needs
+for energy bill assistance. *Energy Policy* 208. doi: [10.1016/j.enpol.2025.114911](https://doi.org/10.1016/j.enpol.2025.114911). [Code and data](https://doi.org/10.6084/m9.figshare.28179887) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enpol.2025.114911" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.enpol.2025.114911" data-hide-no-mentions="true" class="altmetric-embed"></div><br/><br/>
+
 **Lynée L Turek-Hankins**\*, Mayra Cruz, Natalia Brown, Nkosi Muse, Amy Clement, Katharine J Mach. *2025*. Interactions between indoor heat and energy affordability amplify household risks in hot-humid US climate zones. *One Earth* 8(3). doi: [10.1016/j.oneear.2025.101235](https://www.cell.com/one-earth/abstract/S2590-3322(25)00061-2). [Code and data](https://doi.org/10.6084/m9.figshare.25727214) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2025.101235" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.oneear.2025.101235" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Coverage**: [Miami Herald 1](https://www.miamiherald.com/news/local/environment/climate-change/article302503419.html), [Miami Herald 2](https://www.miamiherald.com/news/local/environment/article303322816.html), [WLRN NPR](https://www.wlrn.org/environment/2025-03-24/miami-heat-danger-climate-change), [WUFT NPR](https://www.wuft.org/weather/2025-05-14/summer-will-be-here-soon-and-with-it-life-threatening-heat), [News@TheU](https://news.miami.edu/stories/2025/04/super-heat-trio-examines-the-impacts-of-intense-indoor-heat.html) <br/>
 **Invited presentations**: [AGU 2024](https://ui.adsabs.harvard.edu/abs/2024AGUFMSY54A..01T/abstract), [Columbia Univeristy's Workshop on Extreme Heat](https://www.youtube.com/watch?v=xJajVZbeSbI), Miami Climate Week Resilience 365 Conference
@@ -54,8 +57,6 @@ Malcolm Araos\*, Kripa Jagannathan, Roopam Shukla, Idowu Ajibade, Erin Coughlan 
 
 
 ## Articles in review
-**Lynée L Turek-Hankins**\*, Vince Schueler, Miyuki Hino, and Katharine J Mach. *In review*. Weatherization reduces needs
-for energy bill assistance. *Energy Policy*. <br/><br/>
 
 Christa Brelsford, Maria Amaya, Mohammed Basheer, Alysha Helmrich, Christian J Klassert, Xinchang Li, Landon T Marston, Hassan Niazi, Wei Peng, Pranab Kanti Roy Chowdhury\*, Jinyu Shiwang, **Lynée L Turek-Hankins**, Taryn Waite, Jim Yoon, and Shan Zuidema. *In review*. Key moments in coupled human-natural systems. *Earth's Future*. <br/><br/>
 
@@ -64,7 +65,6 @@ Michelle Miro\*, **Lynée L Turek-Hankins**, Tamara Sheldon, Sergio Alvarez, Ale
 
 
 ## Assessments
-Lida Teneva, Jasmine Brown, Zac Cannizzo, Molly Cross, Samantha Chisholm Hatfield, Erica Fleishman, Stephanie Mladinich, Robert Newman, Meagan Oldfather, **Lynée L Turek-Hankins**, and Melissa Ward. *Expected 2028*. Ch. 19. Nature and ecosystems. *Sixth U.S. National Climate Assessment*, Washington DC, USA: U.S. Global Change Research Program. <br/><br/>
 
 Katharine J Mach, Robert Vallerio, Jeffrey R Arnold, Christa Brelsford, Katherine V Calvin, Alejandro N Flores, Jing Gao, Kripa Jagannathan, David Judi, Carlos E Martín, Frances C Moore, Richard Moss, Earthea Nance, Brenda Rashleigh, Patrick M Reed, Linda Shi, **Lynée L Turek-Hankins**. *2023*. Ch. 18. Sector interactions, multiple stressors, and complex systems. *Fifth U.S. National Climate Assessment*, Washington DC, USA: U.S. Global Change Research Program. doi: [10.7930/NCA5.2023.CH18](https://nca2023.globalchange.gov/chapter/18/). <br/><br/>
 
